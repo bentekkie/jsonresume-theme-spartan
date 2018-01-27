@@ -1,11 +1,11 @@
 {
-  "name": "jsonresume-theme-spartan",
+  "name": "jsonresume-theme-spartanbentekkie",
   "version": "0.2.1",
-  "description": "Minimal, clean and elegant theme for JSON Resume",
-  "author": "Francesco Esposito <fraesps@gmail.com>",
+  "description": "Minimal, clean and elegant theme for JSON Resume - Modified by bentekkie",
+  "author": "Benjamin Segall <bentekkie@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/francescoes/jsonresume-theme-spartan"
+    "url": "https://github.com/bentekkie/jsonresume-theme-spartan"
   },
   "license": "MIT",
   "dependencies": {
